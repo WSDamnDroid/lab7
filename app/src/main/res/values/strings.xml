@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab7</string>
+    <string name="openSecond">Open Activity</string>
+    <string name="Back">Back</string>
+    <string name="addToLV1">Add to List1</string>
+    <string name="addToLV2">Add to List2</string>
+</resources>
